@@ -27,6 +27,6 @@ This code of conduct applies to all spaces managed by Orange County DevOps. This
 If you experience or witness disregard for this code of conduct please report it to an organizer as soon as possible. Even if you do not want any action taken it is useful for organizers to be informed so they might notice behavioral patterns and take action before a serious problem occurs.
 
 Email the Organizers: <mailto:organizers@nebulaworks.com>  
-Or see the meetup page for a list of current organizers: <http://www.meetup.com/oc-devops/>
+Or see the meetup page for a list of current organizers: <http://www.meetup.com/orange-county-devops-group/>
 
 This document is based on the django project code of conduct <https://www.djangoproject.com/conduct/>
